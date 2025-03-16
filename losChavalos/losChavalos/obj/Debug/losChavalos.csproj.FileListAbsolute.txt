@@ -11,3 +11,16 @@ C:\Users\andry\OneDrive\Documentos\Tareas\Programas\C#\losChavalos\losChavalos\o
 C:\Users\andry\OneDrive\Documentos\Tareas\Programas\C#\losChavalos\losChavalos\obj\Debug\losChavalos.exe
 C:\Users\andry\OneDrive\Documentos\Tareas\Programas\C#\losChavalos\losChavalos\obj\Debug\losChavalos.pdb
 C:\Users\andry\OneDrive\Documentos\Tareas\Programas\C#\losChavalos\losChavalos\obj\Debug\losChavalos.Form4.resources
+C:\Users\andry\OneDrive\Documentos\Tareas\Programas\C#\laChavalada\losChavalos\losChavalos\bin\Debug\losChavalos.exe.config
+C:\Users\andry\OneDrive\Documentos\Tareas\Programas\C#\laChavalada\losChavalos\losChavalos\bin\Debug\losChavalos.exe
+C:\Users\andry\OneDrive\Documentos\Tareas\Programas\C#\laChavalada\losChavalos\losChavalos\bin\Debug\losChavalos.pdb
+C:\Users\andry\OneDrive\Documentos\Tareas\Programas\C#\laChavalada\losChavalos\losChavalos\obj\Debug\losChavalos.csproj.AssemblyReference.cache
+C:\Users\andry\OneDrive\Documentos\Tareas\Programas\C#\laChavalada\losChavalos\losChavalos\obj\Debug\losChavalos.Form1.resources
+C:\Users\andry\OneDrive\Documentos\Tareas\Programas\C#\laChavalada\losChavalos\losChavalos\obj\Debug\losChavalos.form2.resources
+C:\Users\andry\OneDrive\Documentos\Tareas\Programas\C#\laChavalada\losChavalos\losChavalos\obj\Debug\losChavalos.Form3.resources
+C:\Users\andry\OneDrive\Documentos\Tareas\Programas\C#\laChavalada\losChavalos\losChavalos\obj\Debug\losChavalos.Form4.resources
+C:\Users\andry\OneDrive\Documentos\Tareas\Programas\C#\laChavalada\losChavalos\losChavalos\obj\Debug\losChavalos.Properties.Resources.resources
+C:\Users\andry\OneDrive\Documentos\Tareas\Programas\C#\laChavalada\losChavalos\losChavalos\obj\Debug\losChavalos.csproj.GenerateResource.cache
+C:\Users\andry\OneDrive\Documentos\Tareas\Programas\C#\laChavalada\losChavalos\losChavalos\obj\Debug\losChavalos.csproj.CoreCompileInputs.cache
+C:\Users\andry\OneDrive\Documentos\Tareas\Programas\C#\laChavalada\losChavalos\losChavalos\obj\Debug\losChavalos.exe
+C:\Users\andry\OneDrive\Documentos\Tareas\Programas\C#\laChavalada\losChavalos\losChavalos\obj\Debug\losChavalos.pdb

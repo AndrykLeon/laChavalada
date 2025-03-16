@@ -89,5 +89,25 @@ namespace losChavalos
                 }
             }
         }
+
+        private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            // Permite caracteres de control (como Backspace)
+            if (char.IsControl(e.KeyChar))
+                return;
+
+            // Si el carácter es un espacio, se cancela la entrada
+            if (e.KeyChar == ' ')
+            {
+                e.Handled = true;
+                return;
+            }
+
+            // Si no es letra, número o guion bajo, cancela la entrada
+            if (!char.IsLetterOrDigit(e.KeyChar) && e.KeyChar != '_')
+            {
+                e.Handled = true;
+            }
+        }
     }
 }

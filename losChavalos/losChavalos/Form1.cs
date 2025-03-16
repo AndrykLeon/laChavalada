@@ -25,6 +25,7 @@ namespace losChavalos
         form2 f2;
         Form3 f3;
         Form4 f4;
+        metodosDeConexion metodos;
         public SqlConnection cn;
         string query = "";
         string bD = "";
@@ -42,21 +43,8 @@ namespace losChavalos
                     mensaje = "Eligió no crear la base de datos";
                 else
                 {
-                    if (existeBD(f2.Eleccion))
-                    {
-                        mensaje = "El nombre que eligió para la base de datos ya existe";
-                    }
-                    else
-                    {
-                        bD = f2.Eleccion;
-                        cn = new SqlConnection("Server=MSI\\SERVIDOR;integrated security=true;database=master");
-                        query = "Create Database " + bD;
-                        cmd = new SqlCommand(query, cn);
-                        cn.Open();
-                        cmd.ExecuteNonQuery();
-                        cn.Close();
-                        mensaje = "Base de Datos creada con éxito";
-                    }
+                    metodos = new metodosDeConexion(bD);
+                    metodos.CrearBD();
                 }
             }
             catch (System.Exception ex)
@@ -139,15 +127,14 @@ namespace losChavalos
                     if (existeBD(f2.Eleccion))
                     {
                         bD = f2.Eleccion;
-                        f3 = new Form3();
-                        f3.ShowDialog();
-                        cn = new SqlConnection("Server=MSI\\SERVIDOR;integrated security=true;database=" + bD);
-                        query = f3.Texto.ToString();
-                        cmd = new SqlCommand(query, cn);
-                        cn.Open();
-                        cmd.ExecuteNonQuery();
-                        cn.Close();
-                        mensaje = "Script ejecutado con éxito";
+                        f3 = new Form3(bD);
+                        f3.TopLevel = false;
+                        f3.FormBorderStyle = FormBorderStyle.None;
+                        f3.Dock = DockStyle.Fill;
+
+                        panel1.Controls.Clear();
+                        panel1.Controls.Add(f3);
+                        f3.Show();
                     }
                     else
                     {

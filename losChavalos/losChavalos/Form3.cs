@@ -1,7 +1,9 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Data.SqlClient;
 using System.Drawing;
 using System.Linq;
 using System.Reflection.Emit;
@@ -14,12 +16,19 @@ namespace losChavalos
 {
     public partial class Form3 : Form
     {
+        string cn = "";
+        string query = "";
+        string cmd = "";
+        string mensaje = "";
         string texto = "";
+        string BD;
+        metodosDeConexion metodos;
         private float originalWidth;
         private float originalHeight;
         private Dictionary<Control, (float width, float height, float left, float top, float fontSize)> controlInfo = new Dictionary<Control, (float width, float height, float left, float top, float fontSize)>();
-        public Form3()
+        public Form3(string bd)
         {
+            BD = bd;
             InitializeComponent();
             this.Load += form3_Load;       // Evento Load
             this.Resize += form3_Resize;   // Evento Resize
@@ -28,13 +37,21 @@ namespace losChavalos
 
         private void btnAceptar_Click(object sender, EventArgs e)
         {
+            mensaje = "";
             texto = richTextBox1.Text;
-            this.Close();
-        }
-        private void btnCancelar_Click(object sender, EventArgs e)
-        {
-            texto = "Cancelar";
-            this.Close();
+            try
+            {
+                metodos = new metodosDeConexion(BD);
+                metodos.EjecutarQuery(texto);
+            }
+            catch (System.Exception ex)
+            {
+                mensaje = "No se pudo ejecutar el script: \n" + ex.Message;
+            }
+            finally
+            {
+                MessageBox.Show(mensaje);
+            }
         }
 
 

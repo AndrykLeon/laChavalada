@@ -71,7 +71,7 @@
             btnRegresar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(116)))), ((int)(((byte)(155)))), ((int)(((byte)(194)))));
             btnRegresar.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             btnRegresar.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(246)))), ((int)(((byte)(244)))), ((int)(((byte)(235)))));
-            btnRegresar.Location = new System.Drawing.Point(591, 117);
+            btnRegresar.Location = new System.Drawing.Point(576, 53);
             btnRegresar.Margin = new System.Windows.Forms.Padding(4);
             btnRegresar.Name = "btnRegresar";
             btnRegresar.Size = new System.Drawing.Size(188, 48);
@@ -87,14 +87,14 @@
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(814, 100);
+            this.panel1.Size = new System.Drawing.Size(765, 46);
             this.panel1.TabIndex = 15;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(168, 35);
+            this.label1.Location = new System.Drawing.Point(144, 9);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(458, 36);
             this.label1.TabIndex = 9;
@@ -105,7 +105,7 @@
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.Navy;
-            this.label2.Location = new System.Drawing.Point(35, 130);
+            this.label2.Location = new System.Drawing.Point(12, 66);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(528, 25);
             this.label2.TabIndex = 14;
@@ -120,7 +120,7 @@
             this.Tablas.Controls.Add(this.tabPage5);
             this.Tablas.Controls.Add(this.tabPage6);
             this.Tablas.Controls.Add(this.tabPage7);
-            this.Tablas.Location = new System.Drawing.Point(36, 183);
+            this.Tablas.Location = new System.Drawing.Point(21, 117);
             this.Tablas.Name = "Tablas";
             this.Tablas.SelectedIndex = 0;
             this.Tablas.Size = new System.Drawing.Size(743, 325);
@@ -285,7 +285,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 22F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(145)))), ((int)(((byte)(200)))), ((int)(((byte)(228)))));
-            this.ClientSize = new System.Drawing.Size(814, 619);
+            this.ClientSize = new System.Drawing.Size(765, 446);
             this.ControlBox = false;
             this.Controls.Add(this.Tablas);
             this.Controls.Add(this.panel1);

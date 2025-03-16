@@ -1,38 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\losChavalos\\",
+  "WorkspaceRootPath": "C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\laChavalada\\losChavalos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F100F891-CAE5-4463-BF41-1827CE6C028C}|losChavalos\\losChavalos.csproj|c:\\users\\andry\\onedrive\\documentos\\tareas\\programas\\c#\\loschavalos\\loschavalos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F100F891-CAE5-4463-BF41-1827CE6C028C}|losChavalos\\losChavalos.csproj|solutionrelative:loschavalos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F100F891-CAE5-4463-BF41-1827CE6C028C}|losChavalos\\losChavalos.csproj|C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\losChavalos\\loschavalos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F100F891-CAE5-4463-BF41-1827CE6C028C}|losChavalos\\losChavalos.csproj|solutionrelative:loschavalos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F100F891-CAE5-4463-BF41-1827CE6C028C}|losChavalos\\losChavalos.csproj|C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\losChavalos\\loschavalos\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F100F891-CAE5-4463-BF41-1827CE6C028C}|losChavalos\\losChavalos.csproj|solutionrelative:loschavalos\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F100F891-CAE5-4463-BF41-1827CE6C028C}|losChavalos\\losChavalos.csproj|C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\losChavalos\\loschavalos\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F100F891-CAE5-4463-BF41-1827CE6C028C}|losChavalos\\losChavalos.csproj|solutionrelative:loschavalos\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F100F891-CAE5-4463-BF41-1827CE6C028C}|losChavalos\\losChavalos.csproj|C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\losChavalos\\loschavalos\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F100F891-CAE5-4463-BF41-1827CE6C028C}|losChavalos\\losChavalos.csproj|C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\laChavalada\\losChavalos\\loschavalos\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F100F891-CAE5-4463-BF41-1827CE6C028C}|losChavalos\\losChavalos.csproj|solutionrelative:loschavalos\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F100F891-CAE5-4463-BF41-1827CE6C028C}|losChavalos\\losChavalos.csproj|C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\losChavalos\\loschavalos\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F100F891-CAE5-4463-BF41-1827CE6C028C}|losChavalos\\losChavalos.csproj|solutionrelative:loschavalos\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F100F891-CAE5-4463-BF41-1827CE6C028C}|losChavalos\\losChavalos.csproj|C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\losChavalos\\loschavalos\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F100F891-CAE5-4463-BF41-1827CE6C028C}|losChavalos\\losChavalos.csproj|C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\laChavalada\\losChavalos\\loschavalos\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F100F891-CAE5-4463-BF41-1827CE6C028C}|losChavalos\\losChavalos.csproj|solutionrelative:loschavalos\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F100F891-CAE5-4463-BF41-1827CE6C028C}|losChavalos\\losChavalos.csproj|C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\losChavalos\\loschavalos\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F100F891-CAE5-4463-BF41-1827CE6C028C}|losChavalos\\losChavalos.csproj|c:\\users\\andry\\onedrive\\documentos\\tareas\\programas\\c#\\lachavalada\\loschavalos\\loschavalos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F100F891-CAE5-4463-BF41-1827CE6C028C}|losChavalos\\losChavalos.csproj|solutionrelative:loschavalos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F100F891-CAE5-4463-BF41-1827CE6C028C}|losChavalos\\losChavalos.csproj|C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\laChavalada\\losChavalos\\loschavalos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F100F891-CAE5-4463-BF41-1827CE6C028C}|losChavalos\\losChavalos.csproj|solutionrelative:loschavalos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F100F891-CAE5-4463-BF41-1827CE6C028C}|losChavalos\\losChavalos.csproj|c:\\users\\andry\\onedrive\\documentos\\tareas\\programas\\c#\\lachavalada\\loschavalos\\loschavalos\\metodosdeconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F100F891-CAE5-4463-BF41-1827CE6C028C}|losChavalos\\losChavalos.csproj|solutionrelative:loschavalos\\metodosdeconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F100F891-CAE5-4463-BF41-1827CE6C028C}|losChavalos\\losChavalos.csproj|C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\laChavalada\\losChavalos\\loschavalos\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F100F891-CAE5-4463-BF41-1827CE6C028C}|losChavalos\\losChavalos.csproj|solutionrelative:loschavalos\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F100F891-CAE5-4463-BF41-1827CE6C028C}|losChavalos\\losChavalos.csproj|C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\laChavalada\\losChavalos\\loschavalos\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F100F891-CAE5-4463-BF41-1827CE6C028C}|losChavalos\\losChavalos.csproj|solutionrelative:loschavalos\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F100F891-CAE5-4463-BF41-1827CE6C028C}|losChavalos\\losChavalos.csproj|C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\laChavalada\\losChavalos\\loschavalos\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F100F891-CAE5-4463-BF41-1827CE6C028C}|losChavalos\\losChavalos.csproj|solutionrelative:loschavalos\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,17 +42,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 225,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "metodosDeConexion.cs",
+              "DocumentMoniker": "C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\laChavalada\\losChavalos\\losChavalos\\metodosDeConexion.cs",
+              "RelativeDocumentMoniker": "losChavalos\\metodosDeConexion.cs",
+              "ToolTip": "C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\laChavalada\\losChavalos\\losChavalos\\metodosDeConexion.cs",
+              "RelativeToolTip": "losChavalos\\metodosDeConexion.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAD0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T19:21:06.945Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\losChavalos\\losChavalos\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\laChavalada\\losChavalos\\losChavalos\\Form1.cs",
               "RelativeDocumentMoniker": "losChavalos\\Form1.cs",
-              "ToolTip": "C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\losChavalos\\losChavalos\\Form1.cs",
+              "ToolTip": "C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\laChavalada\\losChavalos\\losChavalos\\Form1.cs",
               "RelativeToolTip": "losChavalos\\Form1.cs",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAIwCAAAAAAAAAA",
+              "ViewState": "AQIAALMAAAAAAAAAAAAqwMQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T16:11:59.493Z",
               "IsPinned": true,
@@ -60,11 +74,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\losChavalos\\losChavalos\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\laChavalada\\losChavalos\\losChavalos\\Form1.cs",
               "RelativeDocumentMoniker": "losChavalos\\Form1.cs",
-              "ToolTip": "C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\losChavalos\\losChavalos\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\laChavalada\\losChavalos\\losChavalos\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "losChavalos\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T16:10:02.526Z",
@@ -74,23 +88,35 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Form4.cs",
-              "DocumentMoniker": "C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\losChavalos\\losChavalos\\Form4.cs",
-              "RelativeDocumentMoniker": "losChavalos\\Form4.cs",
-              "ToolTip": "C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\losChavalos\\losChavalos\\Form4.cs",
-              "RelativeToolTip": "losChavalos\\Form4.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\laChavalada\\losChavalos\\losChavalos\\Form3.cs",
+              "RelativeDocumentMoniker": "losChavalos\\Form3.cs",
+              "ToolTip": "C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\laChavalada\\losChavalos\\losChavalos\\Form3.cs",
+              "RelativeToolTip": "losChavalos\\Form3.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwDYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T02:02:40.505Z",
+              "WhenOpened": "2025-02-27T00:50:02.376Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "Form3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\laChavalada\\losChavalos\\losChavalos\\Form3.cs",
+              "RelativeDocumentMoniker": "losChavalos\\Form3.cs",
+              "ToolTip": "C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\laChavalada\\losChavalos\\losChavalos\\Form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "losChavalos\\Form3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T00:47:03.436Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Form4.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\losChavalos\\losChavalos\\Form4.cs",
+              "DocumentMoniker": "C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\laChavalada\\losChavalos\\losChavalos\\Form4.cs",
               "RelativeDocumentMoniker": "losChavalos\\Form4.cs",
-              "ToolTip": "C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\losChavalos\\losChavalos\\Form4.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\laChavalada\\losChavalos\\losChavalos\\Form4.cs [Dise\u00F1o]",
               "RelativeToolTip": "losChavalos\\Form4.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T01:44:44.585Z",
@@ -98,24 +124,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\losChavalos\\losChavalos\\Form2.cs",
-              "RelativeDocumentMoniker": "losChavalos\\Form2.cs",
-              "ToolTip": "C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\losChavalos\\losChavalos\\Form2.cs",
-              "RelativeToolTip": "losChavalos\\Form2.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwB4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T19:33:48.816Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Form2.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\losChavalos\\losChavalos\\Form2.cs",
+              "DocumentMoniker": "C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\laChavalada\\losChavalos\\losChavalos\\Form2.cs",
               "RelativeDocumentMoniker": "losChavalos\\Form2.cs",
-              "ToolTip": "C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\losChavalos\\losChavalos\\Form2.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\laChavalada\\losChavalos\\losChavalos\\Form2.cs [Dise\u00F1o]",
               "RelativeToolTip": "losChavalos\\Form2.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T18:48:15.578Z",
@@ -124,25 +137,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Form3.cs",
-              "DocumentMoniker": "C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\losChavalos\\losChavalos\\Form3.cs",
-              "RelativeDocumentMoniker": "losChavalos\\Form3.cs",
-              "ToolTip": "C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\losChavalos\\losChavalos\\Form3.cs",
-              "RelativeToolTip": "losChavalos\\Form3.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAABgAAAArAAAA",
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\laChavalada\\losChavalos\\losChavalos\\Form4.cs",
+              "RelativeDocumentMoniker": "losChavalos\\Form4.cs",
+              "ToolTip": "C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\laChavalada\\losChavalos\\losChavalos\\Form4.cs",
+              "RelativeToolTip": "losChavalos\\Form4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T00:50:02.376Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form3.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\losChavalos\\losChavalos\\Form3.cs",
-              "RelativeDocumentMoniker": "losChavalos\\Form3.cs",
-              "ToolTip": "C:\\Users\\andry\\OneDrive\\Documentos\\Tareas\\Programas\\C#\\losChavalos\\losChavalos\\Form3.cs [Dise\u00F1o]",
-              "RelativeToolTip": "losChavalos\\Form3.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T00:47:03.436Z"
+              "WhenOpened": "2025-02-28T02:02:40.505Z",
+              "EditorCaption": ""
             }
           ]
         }

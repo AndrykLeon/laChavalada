@@ -91,7 +91,7 @@
             // 
             this.crearBdToolStripMenuItem.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(145)))), ((int)(((byte)(200)))), ((int)(((byte)(228)))));
             this.crearBdToolStripMenuItem.Name = "crearBdToolStripMenuItem";
-            this.crearBdToolStripMenuItem.Size = new System.Drawing.Size(224, 28);
+            this.crearBdToolStripMenuItem.Size = new System.Drawing.Size(192, 28);
             this.crearBdToolStripMenuItem.Text = "Crear Bd";
             this.crearBdToolStripMenuItem.Click += new System.EventHandler(this.crearBdToolStripMenuItem_Click);
             // 
@@ -99,7 +99,7 @@
             // 
             this.statusCrearTablas.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(145)))), ((int)(((byte)(200)))), ((int)(((byte)(228)))));
             this.statusCrearTablas.Name = "statusCrearTablas";
-            this.statusCrearTablas.Size = new System.Drawing.Size(224, 28);
+            this.statusCrearTablas.Size = new System.Drawing.Size(192, 28);
             this.statusCrearTablas.Text = "Crear Tablas";
             this.statusCrearTablas.Click += new System.EventHandler(this.statusCrearTablas_Click);
             // 
@@ -132,14 +132,14 @@
             // statusVistas
             // 
             this.statusVistas.Name = "statusVistas";
-            this.statusVistas.Size = new System.Drawing.Size(224, 28);
+            this.statusVistas.Size = new System.Drawing.Size(144, 28);
             this.statusVistas.Text = "Vistas";
             this.statusVistas.Click += new System.EventHandler(this.statusVistas_Click);
             // 
             // statusTablas
             // 
             this.statusTablas.Name = "statusTablas";
-            this.statusTablas.Size = new System.Drawing.Size(224, 28);
+            this.statusTablas.Size = new System.Drawing.Size(144, 28);
             this.statusTablas.Text = "Tablas";
             this.statusTablas.Click += new System.EventHandler(this.statusTablas_Click);
             // 
@@ -158,19 +158,20 @@
             // 
             this.eliminarBdToolStripMenuItem.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.eliminarBdToolStripMenuItem.Name = "eliminarBdToolStripMenuItem";
-            this.eliminarBdToolStripMenuItem.Size = new System.Drawing.Size(224, 28);
+            this.eliminarBdToolStripMenuItem.Size = new System.Drawing.Size(215, 28);
             this.eliminarBdToolStripMenuItem.Text = "Eliminar Bd";
             // 
             // eliminarTablasToolStripMenuItem
             // 
             this.eliminarTablasToolStripMenuItem.Name = "eliminarTablasToolStripMenuItem";
-            this.eliminarTablasToolStripMenuItem.Size = new System.Drawing.Size(224, 28);
+            this.eliminarTablasToolStripMenuItem.Size = new System.Drawing.Size(215, 28);
             this.eliminarTablasToolStripMenuItem.Text = "Eliminar Tablas";
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(528, 7);
+            this.label1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(116)))), ((int)(((byte)(155)))), ((int)(((byte)(194)))));
+            this.label1.Location = new System.Drawing.Point(528, 4);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(131, 22);
             this.label1.TabIndex = 11;
@@ -191,9 +192,9 @@
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(145)))), ((int)(((byte)(200)))), ((int)(((byte)(228)))));
             this.ClientSize = new System.Drawing.Size(736, 431);
             this.ControlBox = false;
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.btnSalir);
             this.Controls.Add(this.panel1);
-            this.Controls.Add(this.label1);
             this.Controls.Add(this.statusStrip1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Margin = new System.Windows.Forms.Padding(4);
